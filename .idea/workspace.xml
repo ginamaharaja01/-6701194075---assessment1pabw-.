@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8dc67e35-6c9d-4747-90ac-b17df84aca85" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../6701194075-assessment1pabw/profile_picture.html" beforeDir="false" afterPath="$PROJECT_DIR$/../6701194075-assessment1pabw/profile_picture.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6701194075-assessment1pabw/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6701194075-assessment1pabw/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../6701194075-assessment1pabw/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616208358785</updated>
-      <workItem from="1616208359926" duration="5594000" />
+      <workItem from="1616208359926" duration="6883000" />
     </task>
     <task id="LOCAL-00001" summary="file nama-nim.txt">
       <created>1616208724097</created>
@@ -69,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616213012210</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit3-6701194075">
+      <created>1616214272923</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616214272923</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +98,7 @@
     <MESSAGE value="file nama-nim.txt" />
     <MESSAGE value="commit1-6701194075" />
     <MESSAGE value="commit2-6701194075" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit2-6701194075" />
+    <MESSAGE value="commit3-6701194075" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit3-6701194075" />
   </component>
 </project>
